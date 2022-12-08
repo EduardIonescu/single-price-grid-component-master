@@ -30,7 +30,7 @@ Users should be able to:
 
 -   Mobile view
 
-![](./screenshot-mobile.png)
+![](screenshot-mobile.png)
 
 ## My process
 
