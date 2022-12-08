@@ -1,7 +1,6 @@
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [Click here to see webpage](https://eduardionescu.github.io/single-price-grid-component-master/)
 
 # Frontend Mentor - Single price grid component solution
 
@@ -25,12 +24,6 @@ Users should be able to:
 
 -   View the optimal layout for the component depending on their device's screen size
 -   See a hover state on desktop for the Sign Up call-to-action
-
-### Screenshots
-
--   Mobile view
-
-![](screenshot-mobile.png)
 
 ## My process
 
